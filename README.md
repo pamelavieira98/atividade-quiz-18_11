@@ -1,4 +1,5 @@
 # atividade-quiz-18_11
 _____
 ## notas
- ```` <tag>  ````
+ ```` <!DOCTYPE html>
+<html lang="pt-BR">  ````
